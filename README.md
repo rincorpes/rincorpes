@@ -1,122 +1,182 @@
 # Hi, I'm Santiago Rincón 👋
 
-**Backend & Platform Engineer** focused on building the systems behind other systems.
+<p align="center">
+<img
+    src="./assets/github-profile-banner.png"
+    alt="Santiago Rincón — Backend and Platform Engineer"
+    width="100%"
+  />
+</p>
+<p align="center">
+<a href="https://linkedin.com/in/rincorpes"> <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"
+      alt="LinkedIn"
+    /></a>
+<a href="https://dev.to/rincorpes"> <img
+      src="https://img.shields.io/badge/DEV-Read_my_articles-0A0A0A?style=for-the-badge&logo=devdotto"
+      alt="DEV Community"
+    /></a>
+</p>
 
-I have **6+ years of professional experience** designing Python services, APIs, internal SDKs, automation, and developer platforms used by engineering teams across healthcare, creative production, and business operations.
+------------------------------------------------------------------------
 
-My interests sit at the intersection of **backend engineering**, **developer infrastructure**, and **AI systems**. I enjoy turning recurring engineering problems into reusable platforms that improve developer experience and make products easier to build and maintain.
+## 👋 About me
 
----
+I'm a **Backend & Platform Engineer** with **6+ years of professional
+experience** building Python services, APIs, internal SDKs, automation
+systems, developer platforms, and AI-powered tooling.
 
-# What I build
+I've designed reusable software used by engineering teams across
+**healthcare, creative production, and business operations**, often
+leading initiatives from architecture through implementation.
 
-## Backend Services
+My work focuses on turning recurring engineering problems into
+maintainable systems that improve:
 
-* Python services
-* REST APIs
-* asynchronous systems
-* distributed architectures
-* integrations and automation
+-   developer experience
+-   reliability and observability
+-   software reuse
+-   product delivery
 
-## Platform Engineering
+> **I build the systems behind other systems.**
 
-* internal developer platforms
-* SDKs and shared libraries
-* CLI applications
-* tooling and automation
-* observability and developer experience
+## ⚙️ What I build
 
-## AI Infrastructure
+<table>
+<tr>
+<td width="33%" valign="top">
+  
+### 🔌 Backend Systems
 
-* agent platforms
-* tool calling
-* structured knowledge systems
-* evaluation pipelines
-* AI application architecture
+Python services, APIs, integrations, asynchronous workflows, WebSockets,
+and data-driven applications.
 
----
+</td>
+<td width="33%" valign="top">
+  
+### 🧰 Developer Platforms
 
-# Current Projects
+Internal SDKs, shared libraries, CLIs, automation, observability, and
+tooling that helps engineering teams move faster.
 
-## Endr
+</td>
+<td width="33%" valign="top">
 
-An AI-native platform exploring knowledge systems, agent runtimes, developer tooling, and Minecraft automation.
+### 🧠 AI Infrastructure
 
-Current areas include:
+Agent runtimes, structured knowledge, tool integration, evaluation
+pipelines, and production-oriented AI systems.
 
-* Knowledge Platform
-* Knowledge API
-* Python & JavaScript SDKs
-* ETL Pipeline
-* Runtime
-* AI Agents
+</td>
+</tr>
+</table>
 
-## Paradox
+## 🌌 Featured Work
 
-A lightweight JavaScript UI library extracted from personal projects with a focus on simplicity and developer experience.
+### Endr
 
-## Mini Arcade
+> An AI-native Minecraft platform used to explore knowledge systems,
+> agent runtimes, developer tooling, and autonomous software.
 
-A collection of reusable systems and experiments for mini video games.
+``` text
+Minecraft
+    │
+    ▼
+Runtime ──────── Agents
+    │               │
+    ▼               ▼
+Clients         Knowledge Platform
+                    │
+          ┌─────────┼─────────┐
+          ▼         ▼         ▼
+         API       SDKs      ETL
+```
 
----
+Current areas of development:
 
-# Technical Interests
+-   Version-aware Knowledge Platform
+-   FastAPI Knowledge API
+-   Python & JavaScript SDKs
+-   ETL Pipeline
+-   Runtime
+-   AI Agents
 
-* Backend Engineering
-* Platform Engineering
-* Developer Experience
-* API Design
-* Software Architecture
-* Distributed Systems
-* Event-Driven Systems
-* AI Infrastructure
-* Open Source
+## 🧪 Other Projects
 
----
+Project | Description |
+|:-------:|:-------:|
+| **Paradox** | A lightweight JavaScript UI toolkit focused on reusable components, simple abstractions, and developer experience. |
+| **Mini Arcade** | A collection of reusable engines, systems, and experiments for browser-based games.
 
-# Tech Stack
+## 🧰 Core Stack
 
-### Languages
+**Languages**
 
-* Python
-* JavaScript / TypeScript
-* Node.js
-* SQL
+Python • JavaScript • TypeScript • Node.js • SQL
 
-### Backend
+**Frameworks**
 
-* FastAPI
-* Django
-* REST APIs
-* WebSockets
-* PostgreSQL
-* MySQL
-* MongoDB
+FastAPI • Django • WebSockets
 
-### Infrastructure
+**Infrastructure**
 
-* Docker
-* GitHub Actions
-* CI/CD
-* Observability
-* Automation
+Docker • GitHub Actions • PostgreSQL • MySQL • MongoDB
 
----
+``` python
+engineering_focus = {
+    "backend": [
+        "API design",
+        "service architecture",
+        "integrations",
+        "async systems",
+    ],
+    "platform": [
+        "SDKs",
+        "developer tooling",
+        "automation",
+        "observability",
+    ],
+    "ai": [
+        "agent infrastructure",
+        "knowledge systems",
+        "tool orchestration",
+    ],
+}
+```
 
-# Currently Learning
+## 🧭 Engineering Principles
 
-* Distributed platform architecture
-* AI infrastructure
-* Knowledge systems
-* Developer tooling
-* Open-source platform design
+``` text
+Build for reuse.
+Design clear boundaries.
+Make systems observable.
+Optimize for maintainers.
+Improve the developer experience.
+```
 
----
+## ✍️ Writing & Building in Public
 
-# Connect
+I write about:
 
-* 💼 LinkedIn: https://linkedin.com/in/rincorpes
-* ✍️ DEV: https://dev.to/rincorpes
+-   Backend Engineering
 
-I'm always interested in conversations about backend engineering, platform engineering, developer tooling, and building software that helps other engineers build software.
+-   Platform Engineering
+
+-   API & SDK Design
+
+-   AI Infrastructure
+
+-   Knowledge Systems
+
+-   ETL Pipelines
+
+-   Software Architecture
+
+-   💼 LinkedIn: https://linkedin.com/in/rincorpes
+
+-   ✍️ DEV: https://dev.to/rincorpes
+
+<p align="center">
+<strong>Backend Engineering · Platform Engineering · Developer
+Infrastructure</strong>
+</p>
