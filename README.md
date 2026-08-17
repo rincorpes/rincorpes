@@ -1,82 +1,74 @@
 # Hi, I'm Santiago Rincón 👋
 
 <p align="center">
-<img
-    src="./assets/github-profile-banner.png"
-    alt="Santiago Rincón — Backend and Platform Engineer"
-    width="100%"
-  />
+    <img src="./assets/github-profile-banner.png" alt="Santiago Rincón — Python, Developer Tools & AI Systems" width="100%" />
 </p>
+
 <p align="center">
-<a href="https://linkedin.com/in/rincorpes"> <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"
-      alt="LinkedIn"
-    /></a>
-<a href="https://dev.to/rincorpes"> <img
-      src="https://img.shields.io/badge/DEV-Read_my_articles-0A0A0A?style=for-the-badge&logo=devdotto"
-      alt="DEV Community"
-    /></a>
+    <a href="https://linkedin.com/in/rincorpes">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="https://rincorpes.github.io/">
+        <img src="https://img.shields.io/badge/Portfolio-Explore-111111?style=for-the-badge&logo=githubpages" alt="Portfolio" />
+    </a>
+    <a href="https://dev.to/rincorpes">
+        <img src="https://img.shields.io/badge/DEV-Read_my_articles-0A0A0A?style=for-the-badge&logo=devdotto" alt="DEV Community" />
+    </a>
 </p>
 
 ------------------------------------------------------------------------
 
-## 👋 About me
+##👋 About me
 
-I'm a **Backend & Platform Engineer** with **6+ years of professional
-experience** building Python services, APIs, internal SDKs, automation
-systems, developer platforms, and AI-powered tooling.
+I'm a software engineer who likes building **platforms, tools, frameworks, and abstractions that make complicated systems easier to work with.**
 
-I've designed reusable software used by engineering teams across
-**healthcare, creative production, and business operations**, often
-leading initiatives from architecture through implementation.
+Most of my public work lives somewhere between:
 
-My work focuses on turning recurring engineering problems into
-maintainable systems that improve:
+- developer tooling
+- Python libraries
+- AI and agent systems
+- APIs and real-time infrastructure
+- creative technology
+- games and simulation
+- software architecture
 
--   developer experience
--   reliability and observability
--   software reuse
--   product delivery
+I tend to gravitate toward problems where there are too many moving parts, too much repetition, or too much hidden complexity.
+
+Then I try to turn that mess into something reusable.
 
 > **I build the systems behind other systems.**
 
-## ⚙️ What I build
+## ⚙️ What I like building
 
-<table>
-<tr>
-<td width="33%" valign="top">
-  
-### 🔌 Backend Systems
+<table> <tr> <td width="33%" valign="top">
+    
+### 🧰 Developer Tools
 
-Python services, APIs, integrations, asynchronous workflows, WebSockets,
-and data-driven applications.
+CLIs, SDKs, shared libraries, registries, logging systems, automation, and infrastructure that makes building other software easier.
 
 </td>
-<td width="33%" valign="top">
-  
-### 🧰 Developer Platforms
 
-Internal SDKs, shared libraries, CLIs, automation, observability, and
-tooling that helps engineering teams move faster.
-
-</td>
 <td width="33%" valign="top">
 
-### 🧠 AI Infrastructure
+### 🧠 AI Systems
 
-Agent runtimes, structured knowledge, tool integration, evaluation
-pipelines, and production-oriented AI systems.
+Agents, structured knowledge, tool integration, evaluation, real-time state, and experiments around software that can reason and act.
 
 </td>
-</tr>
-</table>
 
-## 🌌 Featured Work
+<td width="33%" valign="top">
+
+### 🎮 Creative Systems
+
+Game frameworks, DCC tooling, pipelines, rendering abstractions, and software for creative or highly interactive environments.
+
+</td> </tr> </table>
+
+## 🌌 Featured experiment
 
 ### Endr
 
-> An AI-native Minecraft platform used to explore knowledge systems,
-> agent runtimes, developer tooling, and autonomous software.
+> An AI-native Minecraft project used to explore agents, structured knowledge, real-time environments, and autonomous software.
 
 ``` text
 Minecraft
@@ -92,91 +84,131 @@ Clients         Knowledge Platform
          API       SDKs      ETL
 ```
 
-Current areas of development:
+Endr is where I'm currently exploring questions like:
 
--   Version-aware Knowledge Platform
--   FastAPI Knowledge API
--   Python & JavaScript SDKs
--   ETL Pipeline
--   Runtime
--   AI Agents
+- How should agents interact with changing environments?
+- What knowledge belongs in structured APIs instead of prompts?
+- How do you separate reasoning, runtime state, tools, and domain knowledge?
+- What does good developer experience look like for agent systems?
+- How do you make autonomous software observable and debuggable?
 
-## 🧪 Other Projects
+Current pieces include:
 
-Project | Description |
+- FastAPI knowledge services
+- WebSocket runtime
+- Minecraft state integration
+- AI agents and tools
+- version-aware structured knowledge
+- ETL pipelines
+- Python and JavaScript clients
+
+> Endr is currently private R&D, but I use it as a sandbox for ideas that often become reusable patterns elsewhere.
+
+## 🧪 Open source
+
+Project | What I'm exploring |
 |:-------:|:-------:|
-| **Paradox** | A lightweight JavaScript UI toolkit focused on reusable components, simple abstractions, and developer experience. |
-| **Mini Arcade** | A collection of reusable engines, systems, and experiments for browser-based games.
+| **Sable** | Modular game and systems architecture, runtime services, rendering backends, CLI tooling, and reusable Python patterns. |
+| **Onomasticon** | Typed implementation registries for plugin architectures and interchangeable components. |
+| **Relict** | Reusable logging infrastructure for Python applications, packages, and command-line tools. |
+| **Limen** | Small Python framework for building structured command line applications. |
+| **ParadoxJS** | Lightweight JavaScript abstractions for interactive interfaces without a large frontend framework.
+
+## 🔬 Current interests
 
 ## 🧰 Core Stack
 
-**Languages**
-
-Python • JavaScript • TypeScript • Node.js • SQL
-
-**Frameworks**
-
-FastAPI • Django • WebSockets
-
-**Infrastructure**
-
-Docker • GitHub Actions • PostgreSQL • MySQL • MongoDB
-
-``` python
-engineering_focus = {
-    "backend": [
-        "API design",
-        "service architecture",
-        "integrations",
-        "async systems",
-    ],
-    "platform": [
-        "SDKs",
-        "developer tooling",
+```python
+currently_exploring = {
+    "developer_platforms": [
+        "reusable tooling",
+        "plugin architectures",
         "automation",
         "observability",
     ],
-    "ai": [
-        "agent infrastructure",
-        "knowledge systems",
+    "ai_systems": [
+        "agents",
+        "knowledge APIs",
+        "evaluation",
         "tool orchestration",
+        "real-time environments",
+    ],
+    "creative_tech": [
+        "game frameworks",
+        "DCC integrations",
+        "rendering systems",
+        "production workflows",
     ],
 }
 ```
 
-## 🧭 Engineering Principles
+I'm especially interested in the space where these overlap.
 
-``` text
+Things like:
+
+AI + developer tooling
+AI + games
+AI + creative software
+platform engineering + developer experience
+framework design + real production constraints
+
+## 🧰 Tools I reach for
+
+Usually somewhere in the mix:
+
+**Python • FastAPI • JavaScript • TypeScript • Node.js • WebSockets • Docker • GitHub Actions • PostgreSQL • MySQL • MongoDB**
+
+And depending on the problem:
+
+**Google ADK • OpenAI APIs • Qt / PySide • C++ • SDL2 • Maya • Houdini • Blender • Unreal Engine • DaVinci Resolve**
+
+I care more about the system than the stack, though.
+
+## 🧭 Engineering principles
+
 Build for reuse.
-Design clear boundaries.
-Make systems observable.
-Optimize for maintainers.
-Improve the developer experience.
+
+Prefer clear boundaries over clever abstractions.
+
+Make important systems observable.
+
+Automate recurring friction.
+
+Treat developer experience as product design.
+
+Keep simple things simple.
+
+Ship, learn, refactor.
+
+## 🛠 How I tend to work
+
+```python
+def build_system(problem):
+    understand_the_domain(problem)
+    find_the_repeated_friction(problem)
+    design_clear_boundaries()
+    make_it_observable()
+    automate_the_boring_parts()
+    ship()
+    learn()
+    simplify()
 ```
 
-## ✍️ Writing & Building in Public
+## ✍️ Writing & building in public
 
-I write about:
+Things I like writing or thinking about:
 
--   Backend Engineering
+- Python architecture
+- developer platforms
+- API and SDK design
+- AI infrastructure
+- agent systems
+- knowledge systems
+- observability
+- game architecture
+- creative technology
+- building reusable software
 
--   Platform Engineering
+<p align="center"> <a href="https://linkedin.com/in/rincorpes">LinkedIn</a> · <a href="https://rincorpes.github.io/">Portfolio</a> · <a href="https://dev.to/rincorpes">DEV</a> </p>
 
--   API & SDK Design
-
--   AI Infrastructure
-
--   Knowledge Systems
-
--   ETL Pipelines
-
--   Software Architecture
-
--   💼 LinkedIn: https://linkedin.com/in/rincorpes
-
--   ✍️ DEV: https://dev.to/rincorpes
-
-<p align="center">
-<strong>Backend Engineering · Platform Engineering · Developer
-Infrastructure</strong>
-</p>
+<p align="center"> <strong>Curiosity · Systems · Tools · Software that helps build software</strong> </p>
