@@ -18,7 +18,7 @@
 
 ------------------------------------------------------------------------
 
-##👋 About me
+## 👋 About me
 
 I'm a software engineer who likes building **platforms, tools, frameworks, and abstractions that make complicated systems easier to work with.**
 
